@@ -16,8 +16,5 @@
     "test",
     "Gruntfile.js",
     "**/.*"
-  ],
-  "dependencies": {
-    "angular": "1.3.x"
-  }
+  ]
 }
